@@ -240,7 +240,7 @@ footer{
 }
 /*-------------------------*/
 
-/*PRUEBA DE PÁGINA DE PROTO*/
+/*PÁGINA DE PROTO*/
 #proto{
     display: flex;
     padding: 30px;
@@ -251,12 +251,18 @@ footer{
     margin-bottom: 50px;
 }
 
-#formularioproto{
-    font-size: 20px;
-    line-height: 35px;
-    padding: 30px;
+.formularioproto{
+    font-size: 19px;
+    line-height: 20px;
     align-items: center;
+    margin-left: 30px;
 }
 
+.descripcionproto{
+    font-size: 19px;
+    line-height: 20px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
 
 /*-------------------------*/
